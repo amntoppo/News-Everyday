@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News Everyday</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Search</string>
+    <string name="title_notifications">Category</string>
+    <string name="search_text">Search for any news</string>
+    <string name="search_not_found">Could not find any News related to that</string>
+</resources>
